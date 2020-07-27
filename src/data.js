@@ -15,18 +15,36 @@ const subHeading = [
 const footerCards = [
     {
         key: 1,
-        title: "Daily Workouts 7 Days a Week",
-        content: "Get personalised workouts on a daily basis from professionals"
+        title: "$0",
+        small: "/ mo",
+        content: [
+            "10 users included",
+            "2 GB of storage",
+            "Email support",
+            "Help center access"
+        ]
     },
     {
         key: 2,
-        title: "Access From Any Platform",
-        content: "Use all the benefits of the service anywhere and on any device"
+        title: "$15",
+        small: "/ mo",
+        content: [
+            "20 users included",
+            "10 GB of storage",
+            "Priority email support",
+            "Help center access"
+        ]
     },
     {
         key: 3,
-        title: "Guides & Community",
-        content: "A private community where we help each other"
+        title: "$29",
+        small: "/ mo",
+        content: [
+            "30 users included",
+            "15 GB of storage",
+            "Phone and email support",
+            "Help center access"
+        ]
     }
 ]
 
