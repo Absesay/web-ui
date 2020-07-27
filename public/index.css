@@ -35,6 +35,11 @@ img {
   color: #aeafbd;
 }
 
+.nav-link:hover{
+  color: #1B1E46;
+  
+}
+
 .jumbotron {
   background-color: #fff;
   padding: 90px 10px 70px;
@@ -58,3 +63,32 @@ img {
   background-color: #1B1E46;
   
 }
+
+.card-body ,.lead{
+  color: #595f79;
+}
+
+.card-header {
+  background-color:#aeafbd81 ;
+}
+
+.fbtn {
+  background-color: #1B1E46;
+  font-weight: bold;
+  border: none;
+  margin-top: 15px;
+  color: #fff;
+}
+
+.fbtn:hover {
+  background-color: #1b1e46b2;
+  
+}
+
+svg {
+  color: #1B1E46;
+}
+/* .btn:hover {
+  background-color: #1B1E46;
+  
+} */
