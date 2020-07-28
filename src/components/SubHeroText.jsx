@@ -1,7 +1,8 @@
 import React from "react"
+import * as data from "../data"
 
 export default function SubHeroText() {
     return (
-        <p className="lead">Do fitness anywhere and anytime with our training videos.</p>
+        <p className="lead">{data.subHeading}</p>
     )
 }
