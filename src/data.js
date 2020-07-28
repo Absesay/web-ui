@@ -22,7 +22,8 @@ const footerCards = [
             "2 GB of storage",
             "Email support",
             "Help center access"
-        ]
+        ],
+        button: "Sign up for free"
     },
     {
         key: 2,
@@ -33,7 +34,8 @@ const footerCards = [
             "10 GB of storage",
             "Priority email support",
             "Help center access"
-        ]
+        ],
+        button: "Get Started"
     },
     {
         key: 3,
@@ -44,7 +46,8 @@ const footerCards = [
             "15 GB of storage",
             "Phone and email support",
             "Help center access"
-        ]
+        ],
+        button: "Contact Us"
     }
 ]
 
